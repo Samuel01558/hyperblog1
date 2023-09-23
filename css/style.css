@@ -12,13 +12,25 @@ h1 {
 }
 
 .container {
-    width: 300px;
+    
     height: 100px;
     margin: 0 auto;
     border: 1px solid;
+    width: 70%;
 
 }
 
+.cabecera {
+    width: 70%;
+    margin: 0 auto;
+    padding: 3px;
+    background-color: #413da7;
+    color: #fff;
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.48);
+    font-weight: bold;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 p {
     font-size: 12px;
 }
