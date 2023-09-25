@@ -1,6 +1,6 @@
 body {
     text-align: left;
-    font-family: "Roboto" sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
 
@@ -13,7 +13,8 @@ h1 {
 
 .container {
     width: 300px;
-    height: 100px;
+    height: auto;
+    padding: 4px;
     margin: 0 auto;
     border: 1px solid;
 
