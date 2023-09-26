@@ -20,13 +20,16 @@ h1 {
 }
 
 .container {
+    /* width: 300px; */
+    height: auto;
+    padding: 4px;
     
     height: auto;
     margin: 0 auto;
     border: 1px solid;
-    
 
 }
+
 
 .cabecera {
     display: flex;
